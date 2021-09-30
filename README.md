@@ -16,6 +16,7 @@ Analysing Twitter Data Can be useful in a wide variety of fields like:
 - Twitter API
 - Natural Language Processing
 - Streamlit
+- sqlAlchemy (ORM)
 
 ## Data Format
 
