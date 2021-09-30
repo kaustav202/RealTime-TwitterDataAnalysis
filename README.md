@@ -15,24 +15,27 @@ and Display Useful Metrics and infographics.
 - Analyse Twitter Networks and discover important nodes that are influencers or conversation bridges.
 - Display Tweets Geographically on a Map.
 
-Analysing Twitter Data Can be useful in a wide variety of fields like:
+**Analysing Twitter Data Can be useful in a wide variety of fields like:**
 
-- **For Marketing and Product Analysis =>** In the industry it can be used to improve upon an organization's business decisions. 
-- **Measure public opinions =>** It can help to the guage mood of people in important topics of interest such as political or social events. 
-- **Identify localised behaviours =>** It can be useful in identifying patterns in behaviour of diferent subsections of the society.
+`In the industry it can be used **Marketing and Product Analysis** to improve upon an organization's business decisions. It can be used to **Measure public opinions** which can serve to guage mood of people in important topics of interest such as political or social events. Further , it can be used in **Identifying Behavioral Groups** by identifying conversation spheres , their characteristics ,  patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.`
 
 **And much more...**
 
-## Technology Stack
+## Domains
 
 - Data Mining
+- Data Manipulation an Feature Engineering
 - Big Data Analytics
-- Twitter API
 - Natural Language Processing
-- Streamlit
+- API and Web Server Communication
+- Network Analysis
+
+## Technology Stack
+
 - sqlAlchemy (ORM)
 - nltk
 - networkx
+- Streamlit
 
 ## Data Format
 
