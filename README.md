@@ -4,6 +4,13 @@ Collect and process real time twitter data , analyze twitter networks and map tw
 Complete end to end solution to retrieve , processs and store real time twitter data in the database and retrieve them as dataframe for analysis
 and Display Useful Metrics and infographics.
 
+**Analysing Twitter Data Can be useful in a wide variety of fields like:**
+
+`In the industry it can be used **Marketing and Product Analysis** to improve upon an organization's business decisions. It can be used to **Measure public opinions** which can serve to guage mood of people in important topics of interest such as political or social events. Further , it can be used in **Identifying Behavioral Groups** by identifying conversation spheres , their characteristics ,  patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.`\
+**And much more...**
+
+<br>
+
 ## **Functonality**
 - Stream tweets containing specific keywords in real time
 - Show volume metrics for selected tweets in real time
@@ -15,11 +22,9 @@ and Display Useful Metrics and infographics.
 - Analyse Twitter Networks and discover important nodes that are influencers or conversation bridges.
 - Display Tweets Geographically on a Map.
 
-**Analysing Twitter Data Can be useful in a wide variety of fields like:**
+<br>
 
-`In the industry it can be used **Marketing and Product Analysis** to improve upon an organization's business decisions. It can be used to **Measure public opinions** which can serve to guage mood of people in important topics of interest such as political or social events. Further , it can be used in **Identifying Behavioral Groups** by identifying conversation spheres , their characteristics ,  patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.`
 
-**And much more...**
 
 ## Domains
 
@@ -30,12 +35,18 @@ and Display Useful Metrics and infographics.
 - API and Web Server Communication
 - Network Analysis
 
+<br>
+
+
 ## Technology Stack
 
 - sqlAlchemy (ORM)
 - nltk
 - networkx
 - Streamlit
+
+<br>
+<br>
 
 ## Data Format
 
