@@ -43,7 +43,9 @@ and Display Useful Metrics and infographics.
 - sqlAlchemy (ORM)
 - nltk
 - networkx
-- Streamlit
+- streamlit
+- pandas,numpy
+- matplotlib
 
 <br>
 <br>
