@@ -1,5 +1,5 @@
 # RealTime-TwitterDataAnalysis
-Collect and process real time twitter data , analyze twitter networks and map tweets and trends geographically.
+Collect and process real time twitter data to analyse popularity of tweets with specific keywords or hashtags , generate twitter networks and map tweets and trends geographically.
 
 Complete end to end solution to retrieve , processs and store real time twitter data in the database and retrieve them as dataframe for analysis
 and Display Useful Metrics and infographics.
@@ -26,7 +26,7 @@ and Display Useful Metrics and infographics.
 
 
 
-## Domains
+### Domains
 
 - Data Mining
 - Data Manipulation an Feature Engineering
@@ -38,9 +38,9 @@ and Display Useful Metrics and infographics.
 <br>
 
 
-## Technology Stack
+### Technology Stack
 
-- sqlAlchemy (ORM)
+- tweepy
 - nltk
 - networkx
 - streamlit
@@ -50,10 +50,10 @@ and Display Useful Metrics and infographics.
 <br>
 <br>
 
-## Data Format
+### Data Format
 
 The data recieved from twitter stream api is in a json format
 
-## Important Module and Object Structures
+### Important Module and Object Structures
 
-## Important concepts For Analysis
+### Important concepts For Analysis
