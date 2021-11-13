@@ -1,5 +1,5 @@
 # RealTime-TwitterDataAnalysis
-Collect and process real time twitter data to analyse popularity of tweets with specific keywords or hashtags , generate twitter networks and map tweets and trends geographically.
+Collect and process real time twitter data to analyse popularity of tweets with specific keywords or hashtags , visualise imortant metrics , generate twitter networks and map tweets and trends geographically.
 
 Complete end to end solution to retrieve , processs and store real time twitter data in the database and retrieve them as dataframe for analysis
 and Display Useful Metrics and infographics.
