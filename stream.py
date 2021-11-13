@@ -1,6 +1,7 @@
 
 import tweepy
 from tweepy import Stream
+import twitter_config
 
 # authorize the API Key
 authentication = tweepy.OAuthHandler(api_key, api_secret_key)
