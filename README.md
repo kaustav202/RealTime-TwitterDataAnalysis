@@ -12,32 +12,40 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 <br/>
 
 
-
 - **Show Real Time Plot Of Tweet Volumes and Propotion Of the tweets mentioning either keyword**
 <br/><br/>
 
 ![Total Volume Of tweets](https://i.postimg.cc/rsy2C9md/total-mentions.png)               ------------------------                    ![Average Mentions](https://i.postimg.cc/c1TS1P9f/average-mention.png)
 
 
+<br/><br/>
+
 - **Graph tweet sentiment by performing NLP**
 <br/><br/>
 
 ![Tweet Sentriment](https://i.postimg.cc/HnSDS7c6/tweets-sentiment.png) 
 
-### **Functonality**
+<br/><br/>
+
+- **Node Networks for Retweets And Replied Tweets  | Force Directed Circular Layout Showing more Retweeted user Larger in Size**
+
+<br/><br/>
+
+[![node-network.png](https://i.postimg.cc/Wz1xJbWg/node-network.png)](https://postimg.cc/1nbvkPZ3) _____________________________ ![Circular_layout_reply_network](https://i.postimg.cc/QxtrFSww/circular-network.png)
+
+<br/><br/>
+
+### **Purpose/Functionality**
 - Stream tweets containing specific keywords in real time
 - Show volume metrics for selected tweets in real time
 - Filter tweeets by any time window
-- Display top influencer's tweets daily
-- Prevalance of tweets regarding a particular topic of interest and plot them
+- Plot the prevalance of tweets regarding a particular topic of interest.
 - Perform Sentiment analysis of tweets based on keyword and chart them in real time
 - Twitter Networks Graphing follow , favorited , retweet and reply networks.
 - Analyse Twitter Networks and discover important nodes that are influencers or conversation bridges.
 - Display Tweets Geographically on a Map.
 
 <br>
-
-
 
 ### Domains
 
