@@ -1,12 +1,13 @@
 
 
 import networkx as nx
-
+from tweets_data import get_tweets
 
 
 
 ## Create retweets Subset of ds_tweets
 
+ds_retweets = get_tweets()
 
 G_rt = nx.from_pandas_edgelist(
     ds_retweets,
@@ -23,6 +24,8 @@ print('Edges in RT network:', len(G_rt.edges()))
 
 
 ## Create reply Subset of ds_tweets
+
+ds_replies = get_tweets()
 
 # Create reply network from edgelist
 G_reply = nx.from_pandas_edgelist(
