@@ -1,8 +1,13 @@
 
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from tweets_data import get_tweets
+
+
 
 # Instantiate new SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
+
+ds_tweets = get_tweets()
 
 # Generate sentiment scores
 sentiment_scores = ds_tweets['text'].apply(sid.polarity_scores)
