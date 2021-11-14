@@ -2,6 +2,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+from tweets_data import get_tweets
 
 
 def check_word_in_tweet(word, data):
@@ -19,6 +20,9 @@ def check_word_in_tweet(word, data):
     return contains_column
 
 ## This function checks columns for presence of keywords(boolean list)
+
+
+ds_tweets = get_tweets()
 
 python = check_word_in_tweet('#google', ds_tweets)
 
