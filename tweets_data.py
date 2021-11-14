@@ -60,4 +60,7 @@ list_of_tweets  = flatten_tweets(tweets)
 # Create a DataFrame from `tweets`
 ds_tweets = pd.DataFrame(list_of_tweets)
 
+def get_tweets():
+    return ds_tweets
+
 
