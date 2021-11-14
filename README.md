@@ -15,7 +15,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - **Show Real Time Plot Of Tweet Volumes and Propotion Of the tweets mentioning either keyword**
 <br/><br/>
 
-![Total Volume Of tweets](https://i.postimg.cc/rsy2C9md/total-mentions.png)               ------------------------                    ![Average Mentions](https://i.postimg.cc/c1TS1P9f/average-mention.png)
+![Total Volume Of tweets](https://i.postimg.cc/rsy2C9md/total-mentions.png)               ----              ![Average Mentions](https://i.postimg.cc/c1TS1P9f/average-mention.png)
 
 
 <br/><br/>
@@ -31,7 +31,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 <br/><br/>
 
-[![node-network.png](https://i.postimg.cc/Wz1xJbWg/node-network.png)](https://postimg.cc/1nbvkPZ3) _____________________________ ![Circular_layout_reply_network](https://i.postimg.cc/QxtrFSww/circular-network.png)
+[![node-network.png](https://i.postimg.cc/Wz1xJbWg/node-network.png)](https://postimg.cc/1nbvkPZ3) ___ ![Circular_layout_reply_network](https://i.postimg.cc/QxtrFSww/circular-network.png)
 
 <br/><br/>
 
