@@ -3,6 +3,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from tweets_data import get_tweets
+import sentiment_analysis
+
 
 
 def check_word_in_tweet(word, data):
