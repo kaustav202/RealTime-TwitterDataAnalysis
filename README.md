@@ -3,6 +3,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 <br/>
 
+
 **Analysing Twitter Data Can be useful in a wide variety of fields like:**
 
 `In the industry it can be used in **Marketing and Product Analysis** to improve upon an organization's business decisions. It can be used to **Measure public opinions** which can serve to gauge mood of people in important topics of interest such as political or social events. Further , it can be used in **Clustering Behavioral Groups** by identifying conversation spheres , their characteristics ,  patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.`
@@ -31,9 +32,14 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 <br/><br/>
 
-[![node-network.png](https://i.postimg.cc/Wz1xJbWg/node-network.png)](https://postimg.cc/1nbvkPZ3) ___ ![Circular_layout_reply_network](https://i.postimg.cc/QxtrFSww/circular-network.png)
+
+<div style = "margin-left: 500rem;">
+<img alt = "node-network.png" src = "https://i.postimg.cc/Wz1xJbWg/node-network.png" style = " width : 20vw; left : 10vw; padding-left: 50px;" >&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt = "Circular-layout-reply-network" src = "https://i.postimg.cc/QxtrFSww/circular-network.png" style = "width : 24vw; ;" >
+ 
+ </div>
 
 <br/><br/>
+
 
 ### **Purpose/Functionality**
 - Stream tweets containing specific keywords in real time
@@ -81,3 +87,6 @@ The data recieved from twitter stream api is in a json format
   [![twitter-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
 
 ### References and Important concepts For Analysis
+
+
+### Run Locally
