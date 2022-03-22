@@ -41,7 +41,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 <br/><br/>
 
 
-### **Purpose/Functionality**
+### **Functionality**
 - Stream tweets containing specific keywords in real time
 - Show volume metrics for selected tweets in real time
 - Filter tweeets by any time window
@@ -65,7 +65,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 <br>
 
 
-### Technology Stack
+### Tech Stack
 
 - tweepy
 - nltk
@@ -75,6 +75,15 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - matplotlib
 
 <br>
+</br>
+
+## Setup Locally
+
+- Go the the cloned directory on your local machine.
+- Run `pip install -r requirements.txt` to install all the dependencies.
+- Get your Twitter API credentials and replace the placeholders in twitter_config.py.
+- run `python main.py` which is the application entry point.
+
 <br>
 
 ### Data Format
@@ -87,6 +96,3 @@ The data recieved from twitter stream api is in a json format
   [![twitter-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
 
 ### References and Important concepts For Analysis
-
-- Go the the cloned directory on your local machine.
-- Run `pip install -r requirements.txt` to install all the dependencies.
