@@ -88,5 +88,5 @@ The data recieved from twitter stream api is in a json format
 
 ### References and Important concepts For Analysis
 
-
-### Run Locally
+- Go the the cloned directory on your local machine.
+- Run `pip install -r requirements.txt` to install all the dependencies.
