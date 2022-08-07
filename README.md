@@ -6,7 +6,9 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 **Analysing Twitter Data Can be useful in a wide variety of fields like:**
 
-`In the industry it can be used in **Marketing and Product Analysis** to improve upon an organization's business decisions. It can be used to **Measure public opinions** which can serve to gauge mood of people in important topics of interest such as political or social events. Further , it can be used in **Clustering Behavioral Groups** by identifying conversation spheres , their characteristics ,  patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.`
+- In the industry it can be used in **Marketing and Product Analysis** to improve upon an organization's business decisions. 
+- It can be used to **Measure public opinions** which can serve to gauge mood of people in important topics of interest such as political or social events. 
+- Further , it can be used for **Clustering Behavioral Groups** by identifying conversation spheres , patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.
 
 <br>
 <br/>
@@ -56,7 +58,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 ### Domains
 
 - Data Mining
-- Data Manipulation an Feature Engineering
+- Data Manipulation and Feature Engineering
 - Big Data Analytics
 - Natural Language Processing
 - API and Web Server Communication
