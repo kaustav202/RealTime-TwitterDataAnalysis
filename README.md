@@ -97,4 +97,30 @@ The data recieved from twitter stream api is in a json format
   **The Overall Structure Of the Project**
   [![twitter-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
 
-### References and Important concepts For Analysis
+<!-- ### References and Important concepts For Analysis -->
+
+## How to get started with contributions
+
+- Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md)
+
+#### Steps To Contribute
+
+- Fork this Repository.
+- Clone the Repository: `git clone "url of this repo"`
+- Check existing issues or raise a new issue of your own and ask it to be assigned to you.
+- Wait for the issue to be assigned to you.
+- Create a branch: `git checkout -b <your-new-branch-name>`
+- Put your code :-
+
+  - Make all necessary changes or modifications to the code in your local cloned branch.
+  - Neccessary information like functionalities, screenshots, working video(if required) should be kept handy (you will need to present it when submitting the PR)
+
+- Push changes to gitHub ( on your forked repo ) : `git push origin <add-your-branch-name>`
+- Create a new pull request to the original repo ( main branch of this repo )
+- Submit your changes for review.
+- And Boom! You're done 🥳
+- The maintainers will review and merge your changes into the main branch of this project. You will be automatically notified via E-mail once the changes have been merged.
+
+#### Note : If you want your changes to count towards hacktoberfest ensure that the issue you are working on has #hacktoberfest label
+
+---
