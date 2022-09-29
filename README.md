@@ -4,6 +4,14 @@
 
 #### To get started with contributing and the flow check out 👉 **[below](https://github.com/kaustav202/RealTime-TwitterDataAnalysis#how-to-get-started-with-contributions)**. This repo follows all the standard measures and compliances to ensure a healthy environment for collaboration and community engagement. 
 
+Hoew can you contribute ?
+
+- [x] Check out the existing issues and help solve those.
+- [x] Report a bug or vulnerability in the project that needs to be corrected.
+- [x] Any issue that may be a hinderance in normal working of the app.
+- [x] Help with low-code and no-code like documentaion, the set-up and configuration, walkthrough.
+- [x] Add new awesome features of your own without breaking existing 
+
 Finally, let's relish the spirit of open source and have fun while bringing quality changes. Happy Contributing 🎉🎉 !!
 
 ---
@@ -134,3 +142,24 @@ The data recieved from twitter stream api is in a json format
 #### Note : If you want your changes to count towards hacktoberfest ensure that the issue you are working on has #hacktoberfest label
 
 ---
+
+![GitHub release](https://img.shields.io/github/release/kaustav202/RealTime-TwitterDataAnalysis)</br>
+
+![GitHub pull-requests merged](https://badgen.net/github/merged-prs/kaustav202/RealTime-TwitterDataAnalysis)&nbsp; &nbsp;![GitHub branches](https://badgen.net/github/branches/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) &nbsp; &nbsp; ![Maintainer](https://img.shields.io/badge/maintainer-Kaustav-blue)&nbsp; &nbsp;![GitHub license](https://badgen.net/github/license/kaustav202/RealTime-TwitterDataAnalysis)
+
+![GitHub forks](https://badgen.net/github/forks/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/kaustav202/RealTime-TwitterDataAnalysis)
+
+
+# Contributors 📑
+
+
+<h2> Project Maintainers ⚡ </h2>
+  <a href="https://github.com/kaustav202"></a>
+
+---
+
+## Happy Contributing! 🧡
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+Star Mark this repository and keep contributing as you learn!!
