@@ -1,7 +1,12 @@
 ![hacktoberfest-white-banner](https://user-images.githubusercontent.com/89788120/192966740-a50f9b66-fe74-4899-a353-4459a0e37371.png)
 
-### This project is now open to contributions under hacktoberfest 2022 and your contributions are welcome !
+### This project is now open to contributions under hacktoberfest 2022 and your contributions are welcome.
 
+#### To get started with contributing and the flow check out 👉 **[below](https://github.com/kaustav202/RealTime-TwitterDataAnalysis#how-to-get-started-with-contributions)**. This repo follows all the standard measures and compliances to ensure a healthy environment for collaboration and community engagement. 
+
+Finally, let's relish the spirit of open source and have fun while bringing quality changes. Happy Contributing 🎉🎉 !!
+
+---
 
 # RealTime-TwitterDataAnalysis
 Collect and process real time twitter data to analyse popularity of tweets with specific keywords or hashtags , visualize important metrics, generate twitter networks and map tweets and trends geographically.
@@ -106,7 +111,7 @@ The data recieved from twitter stream api is in a json format
 
 ## How to get started with contributions
 
-- Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md)
+- Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md).
 
 #### Steps To Contribute
 
