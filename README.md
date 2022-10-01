@@ -6,7 +6,7 @@
 
 How can you contribute ?
 
-- [x] Check out the existing issues and help solve those.
+- [x] Check out the existing issues and help solve those or create a new one.
 - [x] Report a bug or vulnerability in the project that needs to be corrected.
 - [x] Any issue that may be a hinderance in normal working of the app.
 - [x] Help with low-code and no-code like documentaion, the set-up and configuration, walkthrough.
