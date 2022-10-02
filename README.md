@@ -75,24 +75,24 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 ### Domains
 
-- Data Mining
-- Data Manipulation and Feature Engineering
-- Big Data Analytics
-- Natural Language Processing
-- API and Web Server Communication
-- Network Analysis
+![category](https://img.shields.io/badge/category-Data%20Mining-blue)
+![category](https://img.shields.io/badge/category-Data%20Manipulation%20and%20Feature%20Engineering-blue)
+![category](https://img.shields.io/badge/category-Big%20Data%20Analytics-blue)
+![category](https://img.shields.io/badge/category-Natural%20Language%20Processing-blue)
+![category](https://img.shields.io/badge/category-API%20and%20Web%20Server%20Communication-blue)
+![category](https://img.shields.io/badge/category-Network%20Analysis-blue)
 
 <br>
 
-
 ### Tech Stack
 
-- tweepy
-- nltk
-- networkx
-- streamlit
-- pandas,numpy
-- matplotlib
+[![uses](https://img.shields.io/badge/uses-tweepy-blue)](https://www.tweepy.org/)
+[![uses](https://img.shields.io/badge/uses-nltk-blue)](https://www.nltk.org/)
+[![uses](https://img.shields.io/badge/uses-networkx-blue)](https://networkx.org/)
+[![uses](https://img.shields.io/badge/uses-streamlit-blue)](https://streamlit.io/)
+[![uses](https://img.shields.io/badge/uses-pandas-blue)](https://pandas.pydata.org/)
+[![uses](https://img.shields.io/badge/uses-numpy-blue)](https://numpy.org/)
+[![uses](https://img.shields.io/badge/uses-matplotlib-blue)](https://matplotlib.org/)
 
 <br>
 </br>
