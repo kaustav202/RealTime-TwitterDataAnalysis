@@ -111,7 +111,10 @@ Collect and process real time twitter data to analyse popularity of tweets with 
     - Go to the Twitter Developer Portal Projects & Apps page at https://developer.twitter.com/en/portal/projects-and-apps
     - Find the API/consumer key and secret under the Consumer Keys section of the Keys and Tokens tab of your app
     - Your account's access token and secret for your app can be found under the Authentication Tokens section of the Keys and Tokens tab of your app
-- Run `python main.py` which is the application entry point.
+- From inside the `app/` folder, you can run `python stream.py` which adds(streams) the tweets into `tweets.json`
+- Run `python main.py` which is the application entry point preferably after some time so that you have more tweets to perform the analysis.
+- You can also perform Sentiment Analysis by running `python sentiment_analysis.py` and draw tweet network graphs by running `python tweet_network.py`
+- Remember that the streaming of tweets is a completely different and independent step than running the analyses
 
 <br>
 
