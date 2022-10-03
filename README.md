@@ -114,7 +114,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - From inside the `app/` folder, you can run `python stream.py` which adds(streams) the tweets into `tweets.json`
 - Run `python main.py` which is the application entry point preferably after some time so that you have more tweets to perform the analysis.
 - You can also perform Sentiment Analysis by running `python sentiment_analysis.py` and draw tweet network graphs by running `python tweet_network.py`
-- Remember that the streaming of tweets is a completely different and independent step than running the analyses
+- Remember that the streaming (writing) of tweets is a completely independent step that needs to be performed initially by running stream.py
 
 <br>
 
