@@ -3,11 +3,12 @@
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from tweets_data import get_tweets
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 
 
 class SentimentalAnalysis:
+    #constructor
     def __init__(self,ds_tweets = get_tweets()):
         # Instantiate new SentimentIntensityAnalyzer
         self.sid = SentimentIntensityAnalyzer()
@@ -16,11 +17,10 @@ class SentimentalAnalysis:
         self.ds_tweets = ds_tweets.set_index(self.dates)
 
         #set it to apple for now
-        self.hashtag = '#apple' 
+        self.hashtag = {}
         #set it to 5 minutes for now
         self.interval = '5T'
         # We need to add dates for both adding it to the graph and for the sentiment analysis to be able to record the time
-        
         self.sentiment_scores = self.ds_tweets['text'].apply(self.sid.polarity_scores)
         
         self.sentiment = self.sentiment_scores.apply(lambda x: x["compound"])
@@ -45,28 +45,43 @@ class SentimentalAnalysis:
         return contains_column
 
     #for us to set the sentiment
-    def set_sentiment(self,hashtag='#apple', interval='5T'):
-        self.hashtag = hashtag
+    # Argv so if you want to add multiple hashtags
+    # I want to put it into a dictionary so its easier access and the index will be the hashtag itself
+    def set_hashtag_data(self, interval='5T',*argv):
+        for hashtags in argv:
+            self.hashtag[hashtags] = self.sentiment[self.check_word_in_tweet(hashtags,self.ds_tweets)].resample(interval).mean()
         self.interval = interval
-        self.sentiment = self.sentiment[self.check_word_in_tweet(self.hashtag,self.ds_tweets)].resample(interval).mean()
+        
         return None
     
 
 
     #another helper function to help us generate the graph and will get us the scores 
-    def get_sentiment(self,hashtag ='#apple',interval = '5T'):
+    def get_hashtag_data(self):
         #generate sentiment scores
-        return self.sentiment
+        return self.hashtag
     
     #gets graph
     def graph(self):
-        plt.plot(self.get_sentiment(),color='blue')
+        
+        if(len(self.hashtag) == 0):
+            return False # if theres no hashtags in the dictionary
 
-        plt.xlabel('seconds')
+        #plt.plot(self.get_sentiment())
+
+        #plt.xlabel('minutes')
+        #plt.ylabel('Sentiment')
+        #plt.title('Sentiment of Tweets');
+        #plt.legend((self.hashtag))
+        #plt.show()
+        for keys in self.hashtag:
+            plt.plot(self.hashtag[keys])
+        plt.xlabel('minutes')
         plt.ylabel('Sentiment')
         plt.title('Sentiment of Tweets');
-        plt.legend((self.hashtag))
+        plt.legend(self.hashtag.keys())
         plt.show()
+        
    
 
         
