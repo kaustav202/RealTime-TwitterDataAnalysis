@@ -164,6 +164,32 @@ The data recieved from twitter stream api is in a json format
 
 # Contributors 📑
 
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
+        <a href=https://github.com/kaustav202>
+            <img src=https://avatars.githubusercontent.com/u/89788120?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kaustav202/>
+            <br />
+            <sub style="font-size:12px"><b>kaustav202</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
+        <a href=https://github.com/Rishav-12>
+            <img src=https://avatars.githubusercontent.com/u/76068105?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rishav Mitra/>
+            <br />
+            <sub style="font-size:12px"><b>Rishav Mitra</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
+        <a href=https://github.com/gokullan>
+            <img src=https://avatars.githubusercontent.com/u/84223229?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=gokullan/>
+            <br />
+            <sub style="font-size:12px"><b>gokullan</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
 
 <h2> Project Maintainers ⚡ </h2>
   <a href="https://github.com/kaustav202"></a>
