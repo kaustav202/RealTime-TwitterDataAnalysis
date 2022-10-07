@@ -1,34 +1,23 @@
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from tweets_data import get_tweets
-from sentiment_analysis import sentiment
+from  sentiment_analysis import SentimentAnalysis
 import pandas as pd
 
 
 
 
 
-
-
-
-
-
-
-
-
-sentiment.set_hashtag_data('5T','#apple','#google') #interval first then hashtags
-
-
-
+sentiment = SentimentAnalysis()
+sentiment.set_hashtag_data('5T','#apple','#google')
 
 ds_tweets = get_tweets()
 
-python = sentiment.get_hashtag_data()['#google']
+python = sentiment.check_word_in_tweet('#google', ds_tweets)
 
 # Find mentions of #rstats in all text fields
-rstats = sentiment.get_hashtag_data()['#apple']
+rstats = sentiment.check_word_in_tweet('#apple', ds_tweets)
+
 # Print proportion of tweets mentioning #python
 print("Proportion of #google tweets:", np.sum(python) / ds_tweets.shape[0])
 
@@ -44,9 +33,9 @@ ds_tweets = ds_tweets.set_index("created_at")
 
 
 
-ds_tweets['google'] = sentiment.get_hashtag_data()['#google']
+ds_tweets['google'] = sentiment.check_word_in_tweet('#google', ds_tweets)
 
-ds_tweets['apple'] = sentiment.get_hashtag_data()['#apple']
+ds_tweets['apple'] = sentiment.check_word_in_tweet('#apple', ds_tweets)
 
 sum_google = ds_tweets['google'].resample('5T').sum()
 
@@ -63,12 +52,9 @@ plt.show()
 
 
 
-
-
-
 mean_google = ds_tweets['google'].resample('5T').mean()
-mean_apple = ds_tweets['apple'].resample('5T').mean()
 
+mean_apple = ds_tweets['apple'].resample('5T').mean()
 
 plt.plot(mean_google , color = 'blue')
 plt.plot(mean_apple , color = 'red')
