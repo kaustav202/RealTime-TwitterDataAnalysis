@@ -3,7 +3,7 @@ from tweets_data import get_tweets
 import pandas as pd
 import matplotlib.pyplot as plt
 
-class SentimentalAnalysis:
+class SentimentAnalysis:
     def __init__(self,ds_tweets = get_tweets()):
         self.sid = SentimentIntensityAnalyzer()
         self.dates = pd.to_datetime(ds_tweets['created_at'])
@@ -54,4 +54,3 @@ class SentimentalAnalysis:
 
 
 
-sentiment = SentimentalAnalysis(ds_tweets=get_tweets())
