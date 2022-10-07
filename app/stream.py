@@ -49,6 +49,8 @@ class SListener(StreamListener):
     def on_status(self, status):
         self.output.write(status)
         self.counter += 1
+        if (self.counter % 1000 == 0):
+            print("No of tweets currently in tweets.json = ", self.counter)
         if self.counter >= 20000:
             self.output.close()
             self.output  = open( self.fprefix , 'w')
