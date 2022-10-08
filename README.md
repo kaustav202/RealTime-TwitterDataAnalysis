@@ -174,6 +174,13 @@ The data recieved from twitter stream api is in a json format
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
+        <a href=https://github.com/segfal>
+            <img src=https://avatars.githubusercontent.com/u/92688849?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=SegFal/>
+            <br />
+            <sub style="font-size:12px"><b>SegFal</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
         <a href=https://github.com/Rishav-12>
             <img src=https://avatars.githubusercontent.com/u/76068105?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rishav Mitra/>
             <br />
