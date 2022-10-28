@@ -33,6 +33,8 @@ class SListener(StreamListener):
     def on_data(self, data):
         if  'in_reply_to_status' in data:
             self.on_status(data)
+            if (self.counter % 50 == 0):
+                print("No of tweets currently in tweets.json = ", self.counter)
         elif 'delete' in data:
             delete = json.loads(data)['delete']['status']
             if self.on_delete(delete['id'], delete['user_id']) is False:
@@ -49,6 +51,8 @@ class SListener(StreamListener):
     def on_status(self, status):
         self.output.write(status)
         self.counter += 1
+        # if (self.counter % 50 == 0):
+        #     print("No of tweets currently in tweets.json = ", self.counter)
         if self.counter >= 20000:
             self.output.close()
             self.output  = open( self.fprefix , 'w')
