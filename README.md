@@ -1,4 +1,3 @@
-![hacktoberfest-white-banner](https://user-images.githubusercontent.com/89788120/192966740-a50f9b66-fe74-4899-a353-4459a0e37371.png)
 
 ### This project is now open to contributions under hacktoberfest 2022 and your contributions are welcome.
 
