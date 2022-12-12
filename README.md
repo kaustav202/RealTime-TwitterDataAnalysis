@@ -75,13 +75,12 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 <br>
 
 ### Domains
-
-- Data Mining
-- Data Manipulation and Feature Engineering
-- Big Data Analytics
-- Natural Language Processing
-- API and Web Server Communication
-- Network Analysis
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()
 
 <br>
 
