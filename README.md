@@ -76,24 +76,23 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 
 ### Domains
 [![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Mining-blue?logo=appveyor&logoColor=violet)]()
+[![Badge](https://shields.io/badge/-Data--Manipulatio--and--Feature--Engineering-red?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Big--Data--Analytics-green?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Natural--Language--Processing-yellow?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-API--and--Web--Server--Communication-orange?logo=appveyor&logoColor=violet)]()&nbsp;
+[![Badge](https://shields.io/badge/-Network--Analysis-pink?logo=appveyor&logoColor=violet)]()
 
 <br>
 
 
 ### Tech Stack
-
-- tweepy
-- nltk
-- networkx
-- streamlit
-- pandas
-- numpy
-- matplotlib
+[![Badge](https://img.shields.io/badge/Streamlit-EE4C2C?style=for-the-badge&logo=streamlit&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/tweepy-1DA1F2?style=for-the-badge&logo=tweepy&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/nltk-000000?style=for-the-badge&logo=nltk&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/NetworkX-FFA500?style=for-the-badge&logo=NetworkX&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/pandas-035a7d?style=for-the-badge&logo=pandas&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/numpy-306998?style=for-the-badge&logo=numpy&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/matplotlib-FFC0CB?style=for-the-badge&logo=matplotlib&logoColor=white)]()
 
 <br>
 </br>
