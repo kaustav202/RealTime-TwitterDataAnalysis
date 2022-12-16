@@ -29,7 +29,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - It can be used to **Measure public opinions** which can serve to gauge mood of people in important topics of interest such as political or social events. 
 - Further , it can be used for **Clustering Behavioral Groups** by identifying conversation spheres , patterns in behaviour of diferent subsections of the society and also the bridges or major influencers.
 
-<br>
+<br/>
 <br/>
 <br/>
 
@@ -72,31 +72,29 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - Analyse Twitter Networks and discover important nodes that are influencers or conversation bridges.
 - Display Tweets Geographically on a Map.
 
-<br>
+</br>
 
 ### Domains
+[![Badge](https://shields.io/badge/-Data--Mining-CAF4F4?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Manipulatio--and--Feature--Engineering-FCFFE9?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Big--Data--Analytics-FFF2CC?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Natural--Language--Processing-FDE0D9?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-API--and--Web--Server--Communication-CAEFD1?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Network--Analysis-FFB8A7?logo=appveyor&logoColor=000080)]()
 
-- Data Mining
-- Data Manipulation and Feature Engineering
-- Big Data Analytics
-- Natural Language Processing
-- API and Web Server Communication
-- Network Analysis
-
-<br>
+</br>
 
 
 ### Tech Stack
+[![Badge](https://img.shields.io/badge/Streamlit-EE4C2C?style=for-the-badge&logo=streamlit&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/tweepy-1DA1F2?style=for-the-badge&logo=tweepy&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/nltk-000000?style=for-the-badge&logo=nltk&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/NetworkX-FFA500?style=for-the-badge&logo=NetworkX&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/pandas-035a7d?style=for-the-badge&logo=pandas&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/numpy-306998?style=for-the-badge&logo=numpy&logoColor=white)]()&nbsp;
+[![Badge](https://img.shields.io/badge/matplotlib-FFC0CB?style=for-the-badge&logo=matplotlib&logoColor=white)]()
 
-- tweepy
-- nltk
-- networkx
-- streamlit
-- pandas
-- numpy
-- matplotlib
-
-<br>
+</br>
 </br>
 
 ## Setup Locally
@@ -117,7 +115,7 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 - You can also perform Sentiment Analysis by running `python sentiment_analysis.py` and draw tweet network graphs by running `python tweet_network.py`
 - Remember that the streaming (writing) of tweets is a completely independent step that needs to be performed initially by running stream.py
 
-<br>
+</br>
 
 ### Data Format
 
