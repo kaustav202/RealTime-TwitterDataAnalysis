@@ -75,12 +75,12 @@ Collect and process real time twitter data to analyse popularity of tweets with 
 </br>
 
 ### Domains
-[![Badge](https://shields.io/badge/-Data--Mining-CAF4F4?logo=appveyor&logoColor=#FF5733)]()&nbsp;
-[![Badge](https://shields.io/badge/-Data--Manipulatio--and--Feature--Engineering-FCFFE9?logo=appveyor&logoColor=FF5733)]()&nbsp;
-[![Badge](https://shields.io/badge/-Big--Data--Analytics-FFF2CC?logo=appveyor&logoColor=FF5733)]()&nbsp;
-[![Badge](https://shields.io/badge/-Natural--Language--Processing-FDE0D9?logo=appveyor&logoColor=FF5733)]()&nbsp;
-[![Badge](https://shields.io/badge/-API--and--Web--Server--Communication-CAEFD1?logo=appveyor&logoColor=FF5733)]()&nbsp;
-[![Badge](https://shields.io/badge/-Network--Analysis-FFB8A7?logo=appveyor&logoColor=FF5733)]()
+[![Badge](https://shields.io/badge/-Data--Mining-CAF4F4?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Data--Manipulatio--and--Feature--Engineering-FCFFE9?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Big--Data--Analytics-FFF2CC?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Natural--Language--Processing-FDE0D9?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-API--and--Web--Server--Communication-CAEFD1?logo=appveyor&logoColor=000080)]()&nbsp;
+[![Badge](https://shields.io/badge/-Network--Analysis-FFB8A7?logo=appveyor&logoColor=000080)]()
 
 </br>
 
