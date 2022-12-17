@@ -187,6 +187,13 @@ The data recieved from twitter stream api is in a json format
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
+        <a href=https://github.com/jatin00000>
+            <img src=https://avatars.githubusercontent.com/u/94428262?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=jatin00000/>
+            <br />
+            <sub style="font-size:12px"><b>jatin00000</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 120.0; height: 120.0">
         <a href=https://github.com/Coder-Manan>
             <img src=https://avatars.githubusercontent.com/u/92792271?v=4 width="80;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Manan Garg/>
             <br />
