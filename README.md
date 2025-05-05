@@ -158,7 +158,7 @@ The data recieved from twitter stream api is in a json format
 
 ![GitHub pull-requests merged](https://badgen.net/github/merged-prs/kaustav202/RealTime-TwitterDataAnalysis)&nbsp; &nbsp;![GitHub branches](https://badgen.net/github/branches/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) &nbsp; &nbsp; ![Maintainer](https://img.shields.io/badge/maintainer-Kaustav-blue)&nbsp; &nbsp;![GitHub license](https://badgen.net/github/license/kaustav202/RealTime-TwitterDataAnalysis)
 
-![GitHub forks](https://badgen.net/github/forks/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/kaustav202/RealTime-TwitterDataAnalysis)
+[![GitHub forks](https://badgen.net/github/forks/kaustav202/RealTime-TwitterDataAnalysis)](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/network/members)&nbsp;&nbsp;[![GitHub stars](https://badgen.net/github/stars/kaustav202/RealTime-TwitterDataAnalysis)](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/stargazers)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/kaustav202/RealTime-TwitterDataAnalysis)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/kaustav202/RealTime-TwitterDataAnalysis)
 
 
 # Contributors 📑
